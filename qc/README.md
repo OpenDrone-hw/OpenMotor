@@ -1,6 +1,6 @@
 # Incoming inspection
 
-Draft. It has not been used on a delivery. It lists the checks the production quotation request asks the maker to report, so the same checks can be repeated on receipt. No sample size is set: the source documents do not give one, and it is decided before the first delivery is inspected.
+Draft. It has not been used on a delivery. It lists the checks the maker is asked to report, so the same checks can be repeated on receipt. No sample size is set; it is decided before the first delivery is inspected.
 
 ## Checks
 
