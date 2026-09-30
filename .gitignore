@@ -1,0 +1,12 @@
+# Commit bench results, procedures and the record sheets.
+# Ignore machine-local state.
+
+.DS_Store
+__pycache__/
+*.pyc
+
+# Agent files stay local; AGENTS.md is the committed agent guide.
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.cursor/
