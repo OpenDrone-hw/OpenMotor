@@ -11,5 +11,5 @@ motor design, KiCad project or CAD here.
 | License | CERN-OHL-S-2.0 |
 
 - Specs in the README variants table come from `OpenDrone/web/content/products/openmotor.json`. Change them there first, then here. A value stays "not yet measured" until a result in `test/` supports it.
-- Supplier names, quotes, prices, contract numbers and contacts never enter this public repository. Sourcing evidence stays in the `sourcing` repository.
+- Sourcing (suppliers, prices, quotes, RFQs, contacts) is handled by Incutec and never lives in OpenDrone repositories.
 - A QC verdict or a measured value is written only from a real record. Never invent a result.
