@@ -24,7 +24,7 @@ The bell carries the OpenDrone logo and the gold and green anodising. Box conten
 | | |
 |---|---|
 | Sale | Preorder on [opendrone.be/products/openmotor](https://opendrone.be/products/openmotor) |
-| Shipping | March 2027 batch, per the storefront |
+| Shipping | Ships by 31 March 2027 if the preorder target is reached by 15 December 2026, per the storefront |
 | Bench results | None yet. The first results come from the sample run. |
 | Incoming QC | Draft procedure in [`qc/`](qc/README.md), not yet used on a delivery |
 | Bell drawing | Not in this repository |
